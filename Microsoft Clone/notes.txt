@@ -1,0 +1,4 @@
+# absolute inset-0
+
+In Tailwind CSS, inset-0 is used to apply zero offset values to all sides of an element, effectively positioning it relative to its containing block. It’s a shorthand for setting the top, right, bottom, and left properties to 0 when using absolute or fixed positioning.
+
